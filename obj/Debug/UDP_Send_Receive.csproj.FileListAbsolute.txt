@@ -1,0 +1,8 @@
+C:\Source Code Praktikum Teknik Antarmuka\UDP_Send_Receive\UDP_Send_Receive\bin\Debug\UDP_Send_Receive.exe
+C:\Source Code Praktikum Teknik Antarmuka\UDP_Send_Receive\UDP_Send_Receive\bin\Debug\UDP_Send_Receive.pdb
+C:\Source Code Praktikum Teknik Antarmuka\UDP_Send_Receive\UDP_Send_Receive\obj\Debug\UDP_Send_Receive.csprojResolveAssemblyReference.cache
+C:\Source Code Praktikum Teknik Antarmuka\UDP_Send_Receive\UDP_Send_Receive\obj\Debug\UDP_Send_Receive.Form1.resources
+C:\Source Code Praktikum Teknik Antarmuka\UDP_Send_Receive\UDP_Send_Receive\obj\Debug\UDP_Send_Receive.Properties.Resources.resources
+C:\Source Code Praktikum Teknik Antarmuka\UDP_Send_Receive\UDP_Send_Receive\obj\Debug\UDP_Send_Receive.csproj.GenerateResource.Cache
+C:\Source Code Praktikum Teknik Antarmuka\UDP_Send_Receive\UDP_Send_Receive\obj\Debug\UDP_Send_Receive.exe
+C:\Source Code Praktikum Teknik Antarmuka\UDP_Send_Receive\UDP_Send_Receive\obj\Debug\UDP_Send_Receive.pdb
